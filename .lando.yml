@@ -1,4 +1,4 @@
 name: tdd-demo
 recipe: laravel
 config:
-  webroot: .
+  webroot: ./public
